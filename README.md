@@ -1,13 +1,22 @@
-👋 Hi, I’m @Cassandra-Samonte
+# 👋 Hi, I’m Cassandra,
 
-I am a Fullstack Web Developer transitioning from a 6-year background in real estate. Leveraging a strong foundation in market trend analysis and client relationship management, I am excited to bring fresh insights into the tech industry.
-
-Skills & Proficiencies
-- Languages: JavaScript, HTML, CSS, MEN Stack (MongoDB, Express.js, Node.js), MERN Stack (MongoDB, Express.js, React, Node.js), Django, Python, PostgreSQL (relational database), MongoDB (NoSQL database)
-- Version Control/Git
-- Project Coordination: Timeline Optimization, Deadline Management
-- Communication & Collaboration: Effective Communication, Collaborative Teamwork
-- Analysis & Problem-solving: Analytical Skills, Problem-solving
+Recent graduate of the Software Engineering Immsersive at General Assembly. I learned a bit of HTML and CSS on my own before commiting to a full time course back in August. I'm currently refining the skills learned while at GA and will be starting a few passion projects as I enter the job search. 
 
 
-I am eager to channel my versatility and background into a fulfilling role in the tech industry, blending creativity and analytical insights to enhance user experiences in the digital space.
+# I practice code with:
+JavaScript
+React.js
+Node.js
+Express.js
+CSS3
+HTML5
+MongoDB
+Tailwind CSS
+Python
+
+# Projects
+
+# Contact:
+## Email: cassandrassamonte@gmail.com
+## Profile: LinkedIn
+## Portfolio: In Progress
