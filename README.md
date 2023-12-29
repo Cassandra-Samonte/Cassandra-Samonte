@@ -12,10 +12,12 @@ Recent graduate of the Software Engineering Immsersive at General Assembly. I le
 + CSS3
 + HTML5
 + MongoDB
-+ Tailwind CSS
 + Python
 + Django
 + PostgreSQL
++ Tailwind CSS
++ Bootstrap CSS
+
 
 ## Projects
 
