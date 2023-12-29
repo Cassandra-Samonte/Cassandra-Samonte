@@ -14,6 +14,8 @@ Recent graduate of the Software Engineering Immsersive at General Assembly. I le
 + MongoDB
 + Tailwind CSS
 + Python
++ Django
++ PostgreSQL
 
 ## Projects
 
