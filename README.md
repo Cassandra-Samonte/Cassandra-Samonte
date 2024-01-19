@@ -11,9 +11,9 @@ Recent graduate of the Software Engineering Immsersive at General Assembly. I le
 + Express.js
 + CSS3
 + HTML5
-+ MongoDB
 + Python
 + Django
++ MongoDB
 + PostgreSQL
 + Tailwind CSS
 + Bootstrap CSS
