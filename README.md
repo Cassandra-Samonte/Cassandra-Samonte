@@ -29,4 +29,4 @@ Recent graduate of the Software Engineering Immsersive at General Assembly. I le
 ## Contact:
 ### 💌 Email: cassandrassamonte@gmail.com
 ### 📍 Profile: [LinkedIn](https://www.linkedin.com/in/cassandra-samonte/)
-### 💼 Portfolio: In Progress
+### 💼 Portfolio(https://github.com/Cassandra-Samonte/Portfolio-2.0)
