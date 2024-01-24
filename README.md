@@ -18,6 +18,9 @@ Recent graduate of the Software Engineering Immsersive at General Assembly. I le
 + Tailwind CSS
 + Bootstrap CSS
 
+## Currently: 
++ Working towards a Google Cloud Platform Certification
++ Learning React Three Fiber and Blender to create 3D applications 
 
 ## Projects
 
